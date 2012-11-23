@@ -34,6 +34,7 @@
   "engines": [
     "node"
   ],
-  "main": "./lib/plates.js"
+  "main": "./lib/plates.js",
+  "private": true
 }
 
